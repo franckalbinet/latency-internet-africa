@@ -1,6 +1,7 @@
 import requests
 from datetime import datetime
 import time
+import os.path
 
 
 def get_measurements(measurement_id, start, stop, probe_ids=[]):
@@ -40,3 +41,15 @@ def get_probes(probes_id=[]):
 
     r_probe = requests.get(url_probe)
     return r_probe.json()
+
+
+def df_to_csv(df, prefix_name="dump", folder="data"):
+    """Save dataframe to csv
+
+    Keyword arguments:
+    df -- dataframe to be saved
+    prefix_name -- prefix name to be used in front of current date 
+    folder -- base folder
+    """
+    base_filename = prefix_name + "-" + datetime.now().strftime('%Y-%m-%d')
+    df.to_csv(os.path.join(folder, base_filename + '.csv'), index=False)

@@ -1,0 +1,217 @@
+prb_id,ip,asn,hostname,org,description,country_name,country_code,region,city,lon,lat
+239,196.1.95.16,8346,dkr-sn.probe.atlas.ucad.sn,AS8346 SONATEL-AS Autonomous System,UCAD Probe,Senegal,SN,,,-17.4415,14.6715
+242,196.210.11.182,328453,196-210-11-182.dynamic.isadsl.co.za,AS3741 Internet Solutions,1 Belvedere,South Africa,ZA,Western Cape,Cape Town,18.4895,-33.9815
+446,196.192.112.229,37708,p446.probes.atlas.ripe.net,AS37708 African Network Information Center - ( AfriNIC Ltd. ),AFRINIC Mauritius,Mauritius,MU,,,57.4995,-20.2395
+473,196.4.161.3,3741,ripe-ncc.is.co.za,AS3741 Internet Solutions,"Internet Solutions [http://www.is.co.za] - Rosebank, ZA - (AS3741)",South Africa,ZA,,,28.0405,-26.1515
+567,193.95.66.40,2609,,AS2609 Tunisia BackBone AS,"ATI, BELVEDERE, 1G/s",Tunisia,TN,Tūnis,Tunis,10.1805,36.8205
+596,168.167.253.35,14988,,AS14988 Botswana Telecommunications Corporation,BTC GABORONE PROBE,Botswana,BW,Gaborone,Gaborone,25.9115,-24.6595
+2456,41.204.67.203,15964,,AS15964 CAMTEL,JeanFrancis (Camtel ADSL 2/1 -Home),Cameroon,CM,Littoral,Douala,9.7295,4.0905
+2608,197.255.240.2,37542,core.iclix.co.za,AS37542 Iclix (PTY) Ltd,Iclix ISP,South Africa,ZA,Orange Free State,Bloemfontein,26.2175,-29.1185
+3461,196.24.38.242,2018,242-38-24-196.kat.ac.za,AS2018 TENET (The UNINET Project),SKA Africa - Karoo,South Africa,ZA,Western Cape,Cape Town,21.4205,-30.7625
+4041,155.93.250.145,37680,,AS37680 Cool Ideas Service Provider (Pty) Ltd,"DS, Home, CPT, ZA",South Africa,ZA,Western Cape,Cape Town,18.3795,-33.9325
+4070,45.220.156.134,32653,,AS32653 eNetworks cc,eNetworks Isando,South Africa,ZA,Western Cape,Cape Town,28.2005,-26.1425
+4088,169.255.59.253,327813,,AS327813 VIDOLU Group Pty Ltd-Web4Africa,W4A,South Africa,ZA,Gauteng,Randburg,28.0515,-26.1985
+4092,197.148.64.10,37497,cr-isa-1.npvpn.za.net,AS37497 Network Platforms (PTY) LTD,,South Africa,ZA,Gauteng,Edenvale,28.2015,-26.1415
+4153,169.0.142.186,328266,169-0-142-186.ip.afrihost.co.za,AS37611 Afrihost (Pty) Ltd,Petersklip,South Africa,ZA,Western Cape,Cape Town,18.4595,-34.0115
+4274,197.255.75.209,37074,197-255-75-209-noc-lan.ug.edu.gh,AS37074 University of Ghana,,Ghana,GH,Greater Accra,Accra,-0.1895,5.6495
+4519,197.88.56.74,10474,197-88-56-74.dsl.mweb.co.za,AS10474 Dimension Data (Pty) Ltd - Optinet,,South Africa,ZA,Eastern Cape,Port Elizabeth,26.5275,-33.3085
+10243,41.221.32.130,37084,,AS37084 Simbanet (T) Limited,SimbaNET TZ,"Tanzania, United Republic of",TZ,,,39.2795,-6.7915
+10843,41.220.10.74,29032,,AS29032 DATANET LLC,Datanet,Uganda,UG,Central Region,Kampala,32.5795,0.3085
+10967,155.93.174.40,37680,,AS37680 Cool Ideas Service Provider (Pty) Ltd,ndg@home,South Africa,ZA,Gauteng,Johannesburg,28.0005,-26.1195
+11182,154.73.1.108,37618,ftp.telemedia.co.za,AS37618 Telemedia (PTY) Ltd,Telemedia,South Africa,ZA,Gauteng,Johannesburg,28.0615,-26.0615
+11236,41.75.79.4,37281,,AS37281 GVA Congo,YATTOO CONGO PROBE,Congo,CG,Pointe-Noire,Pointe-Noire,11.8685,-4.7695
+11327,41.222.48.34,32653,firewall.enetworks.co.za,AS32653 eNetworks cc,,South Africa,ZA,Western Cape,Cape Town,18.4185,-33.9095
+11383,196.1.95.103,8346,,AS8346 SONATEL-AS Autonomous System,UCAD-NG-Probe,Senegal,SN,,,-17.3685,14.7585
+11944,41.222.192.58,37090,,AS37090 ISOCEL SA,ISOCEL Telecom SA_ Joey Esquibal,Benin,BJ,Littoral,Cotonou,2.4295,6.3695
+12168,129.205.13.155,37063,,AS37063 Roke Investments International Ltd,NFT-UG-PROBE,Uganda,UG,Central Region,Kampala,32.5805,0.3215
+12195,196.200.113.228,30988,,AS30988 IS InternetSolutions Limited,"Internet Solutions [http://www.is.co.za] - Lagos, NG - (AS30988)",Nigeria,NG,,,3.4415,6.4295
+12205,196.209.244.200,3741,196-209-244-200.dynamic.isadsl.co.za,AS3741 Internet Solutions,Internet Solutions (Johannesburg) - ISDSL Home User 1,South Africa,ZA,Gauteng,Randburg,27.9875,-26.0905
+12205,196.209.244.200,3741,196-209-244-200.dynamic.isadsl.co.za,AS3741 Internet Solutions,Internet Solutions (Johannesburg) - ISDSL Home User 1,South Africa,ZA,Gauteng,Randburg,27.9875,-26.0905
+12207,196.37.104.121,3741,,AS3741 Internet Solutions,"Internet Solutions [http://www.is.co.za] - Umhlanga, ZA - (AS3741)",South Africa,ZA,Gauteng,Dunkeld,31.0875,-29.7295
+12286,45.220.168.198,32653,ripe-atlas.enetworks.net,AS32653 eNetworks cc,eNetworks Samrand,South Africa,ZA,Western Cape,Cape Town,28.1415,-25.9295
+12344,196.200.131.136,30983,ripe-atlas.marwan.ma,AS30983 CNRST (Centre National pour la Recherche Scientifique et Technique),MARWAN-NOC,Morocco,MA,Rabat-Salé-Kénitra,Rabat,-6.8705,33.9695
+12389,154.126.209.1,327750,jennyoffice.jennytest.co.za,AS327750 Jenny Internet cc,,South Africa,ZA,KwaZulu-Natal,Arbor Park,29.9315,-27.7385
+12465,196.33.14.6,3741,web-ctn-02.onsite.hosting.co.za,AS3741 Internet Solutions,"Internet Solutions [http://www.is.co.za] - Cape Town, ZA - (AS3741)",South Africa,ZA,,,18.4205,-33.9205
+12466,197.245.68.244,328137,dsl-197-245-68-244.voxdsl.co.za,AS11845 Vox Telecom Ltd,2nd bedroom,South Africa,ZA,Western Cape,Cape Town,18.6405,-33.8895
+12956,197.87.171.147,10474,197-87-171-147.cpt.mweb.co.za,AS10474 Dimension Data (Pty) Ltd - Optinet,,South Africa,ZA,Gauteng,Pretoria,28.2195,-25.7295
+12975,154.119.7.3,327798,,"AS327798 The ICT Executive Secretariat for telecommunications, Information and Communications (SETIC) Burundi.",,Burundi,BI,,,29.3805,-3.3805
+13114,41.89.1.251,36914,,AS36914 Kenya Education Network,KENET-USIU-POP,Kenya,KE,Nairobi Area,Nairobi,36.8775,-1.2205
+13218,41.204.160.27,36914,,AS36914 Kenya Education Network,KENET-UoN-POP,Kenya,KE,Central,Kalimoni,36.8175,-1.2785
+13236,196.11.48.1,37691,,AS37691 Thought Express Semantic Technology,,South Africa,ZA,Western Cape,Cape Town,18.4185,-33.9195
+13239,41.86.224.94,37090,,AS37090 ISOCEL SA,,Benin,BJ,Littoral,Cotonou,2.4285,6.3715
+13263,41.222.48.170,32653,firewall.thoughtexpress.co.za,AS32653 eNetworks cc,,South Africa,ZA,Western Cape,Cape Town,18.4205,-33.9215
+13299,102.166.200.254,15399,twiga.telkom.co.ke,AS12455 Kenyan Post & Telecommunications Company / Telkom Kenya Ltd,Hosted at iHub Ltd,Kenya,KE,Nairobi Area,Nairobi,36.8215,-1.2885
+13503,196.44.32.103,15022,v503.bb4.ter.cpt.adept.za.net,AS15022 Adept Internet (Pty) Ltd CT,adept-teraco-newlands,South Africa,ZA,Western Cape,Stellenbosch,18.4575,-33.9715
+13705,105.16.112.6,37100,pb-01-mba.ke.seacomnet.com,AS37100 SEACOM Limited,"Mombasa, Kenya",Kenya,KE,Mombasa District,Mombasa,39.6575,-4.0805
+13711,146.232.195.99,2018,tygripe.sun.ac.za,AS2018 TENET (The UNINET Project),,South Africa,ZA,Western Cape,Stellenbosch,18.6075,-33.9125
+13725,105.16.144.2,37100,pb-01-mpm.mz.seacomnet.com,AS37100 SEACOM Limited,"Maputo, Mozambique",Mozambique,MZ,Cidade de Maputo,Maputo,32.5785,-25.9705
+13727,41.220.165.11,30619,,AS30619 Telecomunicacoes de Mocambique (TDM),TDM,Mozambique,MZ,Tete,Tete,32.5785,-25.9695
+13728,197.96.247.130,3741,,AS3741 Internet Solutions,"Internet Solutions [http://www.is.co.za] - Bloemfontein, ZA - (AS3741)",South Africa,ZA,KwaZulu-Natal,Chatsworth,26.2185,-29.1085
+13732,213.55.83.197,24757,mail.aee.com.et,AS24757 Ethio Telecom,Afro European Engineers,Ethiopia,ET,Addis Ababa,Addis Ababa,38.7885,8.9885
+13734,105.16.152.2,37100,pb-01-emg.za.seacomnet.com,AS37100 SEACOM Limited,"Mtunzini, South Africa",South Africa,ZA,KwaZulu-Natal,Mtunzini,31.7485,-28.9505
+13754,196.41.102.102,36874,102.102.41.196.lightspeed.co.za,AS36874 Cybersmart,LIGHTSPEED,South Africa,ZA,Western Cape,Monte Vista,18.4195,-33.9305
+13755,41.77.144.98,30844,eth0-0.lzm-fw-lsk.liquidtelecom.net,AS30844 Liquid Telecommunications Ltd,,Zambia,ZM,,,28.2195,-12.8205
+13755,41.77.144.98,30844,eth0-0.lzm-fw-lsk.liquidtelecom.net,AS30844 Liquid Telecommunications Ltd,,Zambia,ZM,,,28.2195,-12.8205
+13758,41.77.144.98,30844,eth0-0.lzm-fw-lsk.liquidtelecom.net,AS30844 Liquid Telecommunications Ltd,,Zambia,ZM,,,28.3195,-15.3885
+13758,41.77.144.98,30844,eth0-0.lzm-fw-lsk.liquidtelecom.net,AS30844 Liquid Telecommunications Ltd,,Zambia,ZM,,,28.3195,-15.3885
+13769,41.206.63.94,15808,41.206.63.94.accesskenya.com,AS15808 ACCESSKENYA GROUP LTD is an ISP serving,"Access Kenya (Internet Solutions) [http://www.accesskenya.com]  - Mombasa, KE - (AS15808)",Kenya,KE,,,39.6705,-4.0385
+13771,212.22.174.222,12556,,AS12556 Internet Solutions (Kenya),"Internet Solutions [http://www.is.co.ke] - Nairobi, KE - (AS12556)",Kenya,KE,Nairobi Area,Nairobi,36.8205,-1.2925
+13779,212.22.174.2,12556,,AS12556 Internet Solutions (Kenya),"Internet Solutions [http://www.is.co.ke] - Nairobi, KE - (AS12556)",Kenya,KE,Nairobi Area,Nairobi,36.8205,-1.2885
+13788,197.242.165.2,42235,,AS42235 INTRA DATA COMMUNICATION,"Internet Solutions [http://www.is.co.mz] - Maputo, MZ - (AS42235)",Mozambique,MZ,Maputo City,Maputo,32.5915,-25.9785
+13799,197.242.165.6,42235,,AS42235 INTRA DATA COMMUNICATION,"Internet Solutions [http://www.is.co.mz] - Maputo, MZ - (AS42235)",Mozambique,MZ,Maputo City,Maputo,35.5315,-18.6685
+13804,197.96.10.2,3741,,AS3741 Internet Solutions,"Internet Solutions [http://www.is.co.za] - Mbabane, SZ - (AS3741)",Eswatini,SZ,,,31.1475,-26.3305
+13805,196.35.211.26,3741,,AS3741 Internet Solutions,"Internet Solutions [http://www.is.co.mz] - Luanda, AO - (AS3741)",Angola,AO,Gauteng,Rivonia,17.8675,-11.2005
+13806,197.96.250.2,3741,,AS3741 Internet Solutions,"Internet Solutions [http://www.is.co.za] - Blantyre, MW - (AS3741)",Malawi,MW,,,34.9975,-15.7895
+13810,197.96.8.2,3741,,AS3741 Internet Solutions,"Internet Solutions [http://www.is.co.za] - Maseru, LS  - (AS3741)",Lesotho,LS,,,28.2275,-29.6125
+13888,197.255.144.18,15022,ripe.ter.jhb.adept.za.net,AS15022 Adept Internet (Pty) Ltd CT,adept-teraco-isando,South Africa,ZA,,,28.2015,-26.1385
+14316,196.213.55.249,328453,eleshar.cyclemind.co.za,AS3741 Internet Solutions,Galaxy-Probe,South Africa,ZA,Gauteng,Johannesburg,18.5475,-33.8795
+14384,165.255.202.82,37611,165-255-202-82.ip.adsl.co.za,AS37611 Afrihost (Pty) Ltd,Saddlewood Villas,South Africa,ZA,Eastern Cape,East London,25.5315,-34.0005
+14419,196.192.27.13,28683,,AS28683 Office des Poste et Telecommunications aka Benin Telecoms SA,NOC UAC,Benin,BJ,Littoral,Cotonou,2.4675,6.5415
+14465,196.216.164.50,37513,,AS37513 Namibia University of Science and Technology,Namibia University of Science and Technology,,,Khomas,Windhoek,17.0805,-22.5705
+14691,105.226.139.91,37457,139-226-105-91.north.dsl.telkomsa.net,AS37457 Telkom SA Ltd.,,South Africa,ZA,Gauteng,Pretoria,28.2515,-25.6625
+14712,41.242.99.205,37054,hst-99-205.irenala.edu.mg,AS37054 Telecom Malagasy,i RENALA,Madagascar,MG,Analamanga,Antananarivo,47.5275,-18.9115
+14766,197.26.112.255,37671,,AS37671 3S INF,,Tunisia,TN,Tūnis,Tunis,10.8505,33.8105
+14867,196.29.164.164,33788,,AS33788 Kanar Telecommunication (Canar Telecom Co.Ltd),Canar KHT2-hq,Sudan,SD,,,32.5705,15.5805
+14943,154.73.89.86,37406,ip86.pool89.twr2.juba.ss.rcswimax.com,AS37406 RCS-Communication,RCS Juba TWR3,South Sudan,SS,Juba,Juba,31.5595,4.8085
+14945,63.223.10.70,3491,63-223-10-70.static.pccwglobal.net,"AS3491 PCCW Global, Inc.",PCCW Global - atl01.acc01 - GH,Ghana,GH,,,0.0695,5.8095
+14950,63.223.11.42,3491,63-223-11-42.static.pccwglobal.net,"AS3491 PCCW Global, Inc.",PCCW Global - atl01.nbo02 - KE,Kenya,KE,,,36.8695,-1.3325
+14958,41.203.255.130,36902,cable-41-203-255-130.intelvision.net,AS36902 Intelvision Ltd,,Seychelles,SC,English River,Victoria,55.4795,-4.6485
+14960,41.205.150.74,36996,,AS36996 Telecom Namibia,Telecom Namibia,,,,,17.0905,-22.5725
+14968,63.223.6.90,3491,63-223-6-90.static.pccwglobal.net,"AS3491 PCCW Global, Inc.",PCCW Global - atl01.mpm02 - MZ,Mozambique,MZ,,,32.5705,-25.9685
+14971,63.218.188.58,3491,63-218-188-58.static.pccwglobal.net,"AS3491 PCCW Global, Inc.",PCCW Global - atl01.cpt01 - ZA,South Africa,ZA,Western Cape,Cape Town,18.4705,-33.9725
+15269,196.216.216.10,37453,,AS37453 Vodacom Congo,,Congo (Democratic Republic of the),CD,Kinshasa,Kinshasa,15.9705,-4.3885
+15301,169.0.238.245,37611,169-0-238-245.ip.afrihost.co.za,AS37611 Afrihost (Pty) Ltd,Office,South Africa,ZA,KwaZulu-Natal,Pietermaritzburg,31.1975,-29.5125
+15328,193.194.67.242,3208,,AS3208 Algerian Academic Research Network,ARN Probe,Algeria,DZ,Alger,El Harrach,2.9985,36.7615
+15653,196.29.33.58,37183,ripe-ce.utande.co.zw,AS37183 Utande Internet Services (Pvt) Ltd,,Zimbabwe,ZW,Harare,Harare,31.0795,-17.8215
+15883,102.157.138.29,37705,,AS37705 TOPNET,elacheche@home,Tunisia,TN,Tūnis,Tunis,10.5815,35.7185
+16430,154.126.208.20,327750,,AS327750 Jenny Internet cc,,South Africa,ZA,Province of North West,Jan Kempdorp,24.7685,-28.7425
+16438,41.169.129.30,36937,,AS36937 Liquid Telecommunications South Africa (Pty) Ltd,Neo,South Africa,ZA,Gauteng,Randburg,28.0385,-25.9785
+16466,41.76.119.37,37172,,AS37172 Mitsol (Pty) Ltd,,South Africa,ZA,KwaZulu-Natal,Durban,31.0605,-29.7295
+16491,45.220.168.17,328114,na.comsol.co.za,AS32653 eNetworks cc,,South Africa,ZA,Western Cape,Cape Town,28.1215,-25.9825
+17889,195.24.206.210,15964,,AS15964 CAMTEL,For CNF Ngaoundéré,Cameroon,CM,Centre,Yaoundé,13.5715,7.3415
+17901,195.24.196.122,15964,,AS15964 CAMTEL,AUF-DACGL-YAOUNDE,Cameroon,CM,Centre,Yaoundé,11.4975,3.8575
+17975,196.234.219.120,37492,,AS37492 Orange Tunisie,Sousse,Tunisia,TN,Tūnis,Tunis,10.6305,35.8195
+18135,154.73.216.250,327817,,AS327817 Ladysmith Wireless Solutions,Ladysmith Wireless Solutions,South Africa,ZA,KwaZulu-Natal,Ladysmith,29.7785,-28.5605
+18169,146.231.130.254,37520,ripe-atlas-probe-18169.net.ru.ac.za,AS37520 Rhodes University,Struben Building v3,South Africa,ZA,Eastern Cape,Grahamstown,26.5205,-33.3085
+18434,196.46.232.129,37309,asa.qanet.gm,AS37309 QCell Limited,,Gambia,GM,Banjul,Serekunda,-16.6815,13.4595
+18514,197.148.74.20,37524,,AS37524 Africell Gambia,Africell-Probe,Gambia,GM,Banjul,Serekunda,-15.3125,13.4395
+18671,41.193.231.254,11845,,AS11845 Vox Telecom Ltd,,South Africa,ZA,Western Cape,Cape Town,18.4905,-33.9525
+19048,41.223.245.103,32437,pyc.cd.net.za,AS32437 Webdev CC T/A Cybertek,PYC,South Africa,ZA,KwaZulu-Natal,Essenwood,30.9995,-29.8585
+19211,41.190.93.134,37187,,AS37187 Skyband Corporation Ltd,Skyband Corporation Limited,Malawi,MW,Central Region,Lilongwe,34.9975,-15.7925
+19414,196.20.220.122,23889,,AS23889 Mauritius Telecom Ltd,KS,Mauritius,MU,Plaines Wilhems,Vacoas,57.5275,-20.3205
+19526,197.234.208.5,37537,ripe-probe2.info.bw,AS37537 Bytes Technology Group Botswana (Pty) Ltd,,Botswana,BW,Gaborone,Gaborone,25.9085,-24.6595
+19550,168.167.100.14,14988,,AS14988 Botswana Telecommunications Corporation,,Botswana,BW,Central,Palapy,25.9195,-24.6325
+19574,196.3.96.11,31960,biblioteca.uem.mz,AS31960 Eduardo Mondlane University,MOZIX-CIUEM,Mozambique,MZ,Maputo City,Maputo,32.6005,-25.9505
+19591,41.207.188.9,24691,,"AS24691 TogoTelecom, Togo",Arnaud AMELINA CNF/AUF,Togo,TG,Maritime,Lomé,1.2115,6.1775
+19592,41.242.99.206,37054,hst-99-206.irenala.edu.mg,AS37054 Telecom Malagasy,i RENALA,Madagascar,MG,Analamanga,Antananarivo,47.5315,-18.9315
+19757,197.149.149.17,37468,fw1-corp.1.anp.lad.as37468.angolacables.ao,AS37468 Angola Cables,,Angola,AO,Luanda,Luanda,18.4995,-12.4995
+19925,41.222.88.34,37126,,AS37126 Bell Communications Ltd,BELL,"Tanzania, United Republic of",TZ,Dar es Salaam,Dar es Salaam,39.2585,-6.7705
+19984,196.49.13.52,37054,atlas-probe.mgix.mg,AS37054 Telecom Malagasy,MGIX,Madagascar,MG,,,47.5315,-18.9105
+19994,169.0.243.160,33762,169-0-243-160.ip.afrihost.co.za,AS37611 Afrihost (Pty) Ltd,34 Dias,South Africa,ZA,Gauteng,Johannesburg,28.0115,-26.0405
+20772,169.255.114.39,327859,169-255-114-39.cpe.as327859.net,AS327859 Capital Technologies,Capital Technologies (T) Ltd.,"Tanzania, United Republic of",TZ,Dar es Salaam,Dar es Salaam,39.2905,-6.8215
+21120,105.22.40.142,37100,,AS37100 SEACOM Limited,Badger Holdings Springs,South Africa,ZA,Gauteng,Johannesburg,28.1985,-26.1825
+21607,41.186.44.106,36890,,AS36890 MTN Rwandacell,NFT-RW-PROBE,Rwanda,RW,,,30.0975,-1.9295
+21655,160.242.192.83,24691,,"AS24691 TogoTelecom, Togo",IAI-TOGO,Togo,TG,Maritime,Lomé,1.2295,6.1695
+21673,41.63.32.190,37532,,AS37532 Zambia Research and Education Network (ZAMREN),Zamren Atlas Probe,Zambia,ZM,,,28.3205,-15.3915
+21682,169.0.103.214,37611,169-0-103-214.ip.afrihost.co.za,AS37611 Afrihost (Pty) Ltd,Strand,South Africa,ZA,Western Cape,Cape Town,18.8315,-34.1015
+21684,196.170.216.127,24691,,"AS24691 TogoTelecom, Togo",ESIBA-BUSINESS SCHOOL,Togo,TG,Maritime,Lomé,1.1915,6.2095
+21715,154.72.162.190,15964,,AS15964 CAMTEL,cmNOG-probe8 (IGF),Cameroon,CM,Centre,Yaoundé,13.5475,7.4095
+21770,41.204.81.123,15964,,AS15964 CAMTEL,cmNOG-probe9 (B@Home.cm),Cameroon,CM,Centre,Yaoundé,12.3505,7.3675
+22215,160.119.216.205,328162,,AS328162 Icolo Ltd,icolo.io MBA1,Kenya,KE,,,39.5875,-4.0105
+22221,196.40.111.174,37153,atlas01.cpt.net.hetzner.co.za,AS37153 Xneelo (Pty) Ltd,Hetzner Africa - Cape Town,South Africa,ZA,,,18.4685,-33.9725
+22235,41.86.234.103,37090,,AS37090 ISOCEL SA,37090_ORTB_PROBE,Benin,BJ,Littoral,Cotonou,2.4085,6.3495
+22252,41.72.136.130,37153,atlas01.jnb.net.hetzner.co.za,AS37153 Xneelo (Pty) Ltd,Hetzner Africa - Johannesburg,South Africa,ZA,,,28.1395,-25.9315
+22431,169.239.21.1,41095,vpn-p0-gw.jb.sa.iptp.net,AS41095 IPTP LTD,IPTP Networks POP - Teraco Johannesburg (JB1),South Africa,ZA,Gauteng,Johannesburg,28.1985,-26.1425
+22522,41.82.51.31,8346,,AS8346 SONATEL-AS Autonomous System,Mamelles-FTTH,Senegal,SN,Dakar,Dakar,-17.5015,14.7285
+22699,197.2.201.36,37705,,AS37705 TOPNET,,Tunisia,TN,Tūnis,Tunis,9.0015,34.0015
+22933,105.155.229.170,36903,,AS36903 Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM,Massinissa Probe (Morocco),Morocco,MA,Béni Mellal-Khénifra,Khouribga,-6.3615,32.3385
+23531,41.209.106.129,15706,,AS15706 Sudatel (Sudan Telecom Co. Ltd),,Sudan,SD,,,33.4885,14.4275
+23538,196.41.37.146,30844,,AS12143 RAHA Ltd,RAHA,"Tanzania, United Republic of",TZ,Dar es Salaam,Dar es Salaam,39.2085,-6.7885
+24765,41.63.144.122,37037,ip-41-63-144-122.orange.mg,AS37037 Orange Madagascar,Probe_1 Orange Madagascar,Madagascar,MG,Analamanga,Antananarivo,47.5205,-18.8805
+24798,196.49.5.74,327844,,AS327844 TISPA - Tanzania Internet Service Providers Association,Astrium TISPA Office,"Tanzania, United Republic of",TZ,,,39.2115,-6.7885
+25034,197.1.115.69,37705,,AS37705 TOPNET,Sayada,Tunisia,TN,Tūnis,Tunis,10.8885,35.6595
+25210,105.16.120.2,37100,pb-01-nbo.ke.seacomnet.com,AS37100 SEACOM Limited,"Nairobi, Kenya",Kenya,KE,Nairobi Province,Nairobi,36.8175,-1.2925
+25220,41.231.47.150,2609,,AS2609 Tunisia BackBone AS,elacheche@work,Tunisia,TN,Tūnis,Tunis,10.6085,35.8275
+25283,105.16.169.8,37100,pb-01-cpt.za.seacomnet.com,AS37100 SEACOM Limited,"Cape Town, South Africa",South Africa,ZA,Western Cape,Cape Town,18.7115,-33.9015
+25296,105.23.224.50,37100,pb-01-dur.za.seacomnet.com,AS37100 SEACOM Limited,"Durban, South Africa",South Africa,ZA,KwaZulu-Natal,Durban,31.0215,-29.8595
+25355,105.16.160.8,37100,pb-01-jnb.za.seacomnet.com,AS37100 SEACOM Limited,"Johannesburg, South Africa",South Africa,ZA,Gauteng,Johannesburg,28.1995,-26.1405
+27571,45.222.33.75,328039,45-222-33-75.jsdaav.net,AS328039 JSDAAV ZA Telecoms (Pty) Ltd,BennieJ Home,South Africa,ZA,Gauteng,Pretoria,28.1405,-25.8125
+27829,41.220.14.111,29032,,AS29032 DATANET LLC,NFT-DTN-2,Uganda,UG,Central Region,Kampala,32.5785,0.3115
+27829,41.220.14.111,29032,,AS29032 DATANET LLC,NFT-DTN-2,Uganda,UG,Central Region,Kampala,32.5785,0.3115
+27829,41.220.14.111,29032,,AS29032 DATANET LLC,NFT-DTN-2,Uganda,UG,Central Region,Kampala,32.5785,0.3115
+27911,196.188.63.35,24757,,AS24757 Ethio Telecom,ISOC_ (Edna mall Area),Ethiopia,ET,Addis Ababa,Addis Ababa,38.7875,8.9875
+28291,105.184.141.78,37457,141-184-105-78.east.dsl.telkomsa.net,AS37457 Telkom SA Ltd.,"Telkom ADSL, Durban",South Africa,ZA,KwaZulu-Natal,Berea,30.9415,-29.7925
+28493,41.82.126.219,8346,,AS8346 SONATEL-AS Autonomous System,,Senegal,SN,Dakar,Dakar,-17.1385,14.7385
+28815,41.86.230.252,37090,,AS37090 ISOCEL SA,Eudes Atlas 1,Benin,BJ,Littoral,Cotonou,2.3775,6.3495
+29158,197.232.12.23,36866,,AS36866 Jamii Telecommunications Limited,Hirola_2,Kenya,KE,Nairobi Area,Nairobi,36.8195,-1.2885
+29179,41.77.51.6,37670,,AS37670 Smart Technology Centre (PTY) LTD,Smart Technology Centre,South Africa,ZA,Gauteng,Johannesburg,28.1605,-26.1685
+29857,196.209.220.248,328453,196-209-220-248.dynamic.isadsl.co.za,AS3741 Internet Solutions,TechnoCore,South Africa,ZA,Western Cape,Cape Town,18.5095,-33.9295
+29991,41.138.240.246,12684,,AS12684 SES ASTRA S.A.,CONSENSAS FIELD PROBE 1,Congo (Democratic Republic of the),CD,Juba,Juba,29.0315,1.3575
+30021,196.46.36.18,36868,,AS36868 Rogers Capital Technology Services Ltd,Ebene Probe,Mauritius,MU,,,57.4885,-20.2425
+30033,196.170.174.114,24691,,"AS24691 TogoTelecom, Togo",ADSL TG,Togo,TG,Maritime,Lomé,1.2285,6.1685
+30057,196.46.54.54,36868,,AS36868 Rogers Capital Technology Services Ltd,LTK Probe,Mauritius,MU,,,57.4695,-20.1795
+30060,41.220.14.111,29032,,AS29032 DATANET LLC,NFT-DTN-3,Uganda,UG,Central Region,Kampala,32.5805,0.3075
+30060,41.220.14.111,29032,,AS29032 DATANET LLC,NFT-DTN-3,Uganda,UG,Central Region,Kampala,32.5805,0.3075
+30060,41.220.14.111,29032,,AS29032 DATANET LLC,NFT-DTN-3,Uganda,UG,Central Region,Kampala,32.5805,0.3075
+30090,41.76.249.241,37286,,AS37286 Nigeria ICT Forum of Partnership Institutions,"Nigeria ICT Forum, Abuja",Nigeria,NG,FCT,Abuja,7.4615,9.0775
+30145,196.75.226.178,36903,,AS36903 Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM,Rabat,Morocco,MA,Rabat-Salé-Kénitra,Sale,-6.9005,33.9695
+30169,41.211.100.76,37034,,AS36955 Matrix Telecoms SA,cmNOG-probe11 (Matrix Dla  Serge FOKO),Cameroon,CM,,,9.7005,4.0515
+30177,193.194.81.47,3208,proxy-dtri.eldjazair.dz,AS3208 Algerian Academic Research Network,,Algeria,DZ,Tipaza,Cheraga,3.0605,36.7005
+30229,155.93.216.124,37680,,AS37680 Cool Ideas Service Provider (Pty) Ltd,STPNETPROBE01,South Africa,ZA,Gauteng,Randburg,28.1285,-25.9985
+30384,41.220.14.111,29032,,AS29032 DATANET LLC,NFT-DTN-1,Uganda,UG,Central Region,Kampala,32.5815,0.3095
+30384,41.220.14.111,29032,,AS29032 DATANET LLC,NFT-DTN-1,Uganda,UG,Central Region,Kampala,32.5815,0.3095
+30384,41.220.14.111,29032,,AS29032 DATANET LLC,NFT-DTN-1,Uganda,UG,Central Region,Kampala,32.5815,0.3095
+30516,105.108.74.80,36947,,AS36947 Telecom Algeria,AtlasPower,Algeria,DZ,Sétif,Sétif,5.0475,36.7505
+31505,165.255.244.119,37611,165-255-244-119.ip.adsl.co.za,AS37611 Afrihost (Pty) Ltd,CPT,South Africa,ZA,Western Cape,Cape Town,18.4975,-34.0905
+31542,196.253.252.61,8094,,AS8094 North West University,"North-West University, Mahikeng, ZA",South Africa,ZA,North-West,Mahikeng,25.6095,-25.8215
+31545,196.253.96.47,8094,,AS8094 North West University,"North-West University, Vanderbijlpark, ZA",South Africa,ZA,Gauteng,Vanderbijlpark,27.8795,-26.7205
+31589,143.160.99.23,8094,,AS8094 North West University,"North-West University, Potchefstroom, ZA",South Africa,ZA,Province of North West,Potchefstroom,27.1015,-26.7085
+32206,156.213.207.20,8452,host-156.213.20.207-static.tedata.net,AS8452 TE-AS,,Egypt,EG,Alexandria,Alexandria,30.7975,26.8205
+32258,213.154.81.185,8346,gpportal.armee.sn,AS8346 SONATEL-AS Autonomous System,TL mr3020 emga,Senegal,SN,Dakar,Dakar,-17.4405,14.6615
+32340,155.93.157.29,37680,,AS37680 Cool Ideas Service Provider (Pty) Ltd,Johannesburg,South Africa,ZA,Gauteng,Midrand,28.0595,-26.1125
+32381,164.160.140.222,28683,,AS328098 JENY SAS,new mhoungbo - home,Benin,BJ,,,2.3915,6.3675
+32674,196.168.170.154,24691,mail.defitogo.tg,"AS24691 TogoTelecom, Togo",Probe from TOGO,Togo,TG,Maritime,Lomé,1.2305,6.1695
+32925,160.176.54.248,36903,,AS36903 Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM,Agadir Dakhla,Morocco,MA,Souss-Massa,Agadir,-9.5615,30.4095
+32968,197.241.4.220,30990,,AS30990 DJIBOUTI TELECOM S.A.,,Djibouti,DJ,Djibouti,Djibouti,43.1505,11.5915
+33031,196.44.100.122,327814,office.ecoband.net.gh,AS327814 Ecoband Ltd,Ecoband Ltd,Ghana,GH,Greater Accra,Accra,-0.1815,5.5575
+33053,154.66.91.130,37640,wch.ripe-atlas.as37640.net,AS37640 Cape Connect Internet,Whale Coast Hotel,South Africa,ZA,Western Cape,Cape Town,19.2395,-34.4215
+33073,196.15.205.17,32437,,AS5713 Telkom SA Ltd.,SecundaSpar,South Africa,ZA,,,29.1905,-26.5215
+33078,41.223.245.104,328365,,AS32437 Webdev CC T/A Cybertek,KZNNOG,South Africa,ZA,KwaZulu-Natal,Berea,30.9905,-29.8685
+33079,41.79.214.146,328366,146.214.79.41.firstnet.co.za,AS328366 FIRSTNET TECHNOLOGY SERVICES (PTY) LTD,FirstNet Umhlanga,South Africa,ZA,KwaZulu-Natal,Durban,31.0705,-29.7385
+33090,196.41.105.18,36874,cerberus.courtney.org.za,AS36874 Cybersmart,Cybersmart FixedIP ADSL,South Africa,ZA,Western Cape,Cape Town,18.4315,-34.1425
+33105,197.245.46.199,11845,dsl-197-245-46-199.voxdsl.co.za,AS11845 Vox Telecom Ltd,CobusVHome,South Africa,ZA,Gauteng,Randburg,27.9375,-26.1105
+33126,41.162.50.98,36937,,AS36937 Liquid Telecommunications South Africa (Pty) Ltd,AHRI,South Africa,ZA,KwaZulu-Natal,Somerset,32.2085,-28.4095
+33127,154.70.140.2,37519,mx1.xis.co.za,AS37519 Xtranet,,South Africa,ZA,KwaZulu-Natal,Durban,31.1285,-29.5795
+33136,197.155.8.131,37199,,AS37199 Vanilla,Vanilla Office,South Africa,ZA,Western Cape,Cape Town,18.4085,-33.9195
+33144,41.191.236.140,None,,AS37123 Telecontract Pvt Ltd,TelcoZW-1,Zimbabwe,ZW,Harare,Harare,31.0795,-17.7405
+33145,156.38.2.1,328145,,AS328145 Lyca Digital NPC,RP02-JHB-FWYS,South Africa,ZA,KwaZulu-Natal,Mpumalanga,27.9895,-26.0005
+33154,154.66.91.131,37640,vc.ripe-atlas.as37640.net,AS37640 Cape Connect Internet,Victoria Centre,South Africa,ZA,Western Cape,Cape Town,18.8495,-34.0805
+33159,196.22.240.186,36874,196.22.240.186.lightspeed.co.za,AS36874 Cybersmart,Teraco Rondebosch,South Africa,ZA,Western Cape,Cape Town,18.4795,-33.9685
+33175,197.155.4.229,37199,,AS37199 Vanilla,Alans Home,South Africa,ZA,Western Cape,Cape Town,18.3905,-33.9205
+33177,154.73.216.76,327817,,AS327817 Ladysmith Wireless Solutions,,South Africa,ZA,KwaZulu-Natal,Ladysmith,29.7805,-28.5495
+33221,164.160.141.144,328098,,AS328098 JENY SAS,JENYSAS - BOA Zongo,Benin,BJ,Oueme,Godomey,2.4385,6.3575
+33267,154.113.68.130,37282,,AS37282 Mainone Cable Company,MAINONE ATLAS RIPE PROBE,Nigeria,NG,Lagos,Lagos,3.4205,6.4305
+33272,154.73.220.7,327805,,AS327805 Bundu NetworX,,South Africa,ZA,KwaZulu-Natal,Mooi River,30.3905,-29.6215
+33274,102.129.98.53,37150,53.98.129.102.easyweb.co.za,AS37150 Xnet Internet Services (Pty) Ltd,,South Africa,ZA,Western Cape,Cape Town,18.6605,-34.0505
+33284,41.93.48.195,37182,,AS37182 Tanzania Education And Research Network,TERNET Probe,"Tanzania, United Republic of",TZ,,,39.2415,-6.7705
+33289,196.22.250.158,36874,196.22.250.158.myadslip.net,AS36874 Cybersmart,Siegel,South Africa,ZA,Western Cape,Cape Town,18.3915,-33.9185
+33290,164.160.121.26,328049,,AS328049 Haupt Online (Pty) Ltd,HAUPT COMPUTERS,South Africa,ZA,KwaZulu-Natal,Durban,30.9715,-29.9225
+33344,196.11.84.178,327941,,AS327941 SIMBANET MALAWI LIMITED,SimbaNET Malawi RIPE Atlas Probe,Malawi,MW,Central Region,Lilongwe,33.7895,-13.9505
+33778,196.191.101.10,24757,,AS24757 Ethio Telecom,ISOC_ (Gambella Area),Ethiopia,ET,Addis Ababa,Addis Ababa,34.5905,8.2315
+33838,197.251.7.231,37197,,AS37197 Sudanese Research and Education Network,Almughtarbeen university VIA Sudren,Sudan,SD,Khartoum,Khartoum,32.5285,15.5315
+33965,41.242.3.162,37684,static-41-242-3-162.ips.angani.co,AS37684 Angani Limited,Angani HQ Probe,Kenya,KE,Nairobi Area,Nairobi,36.7905,-1.2905
+33985,41.77.81.122,327741,,AS327741 INFOGENIE Technologies,AUF-IFGU-Yaounde,Cameroon,CM,Centre,Yaoundé,11.5015,3.8595
+35067,41.248.208.162,36903,,AS36903 Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM,Rue Bruxelles,Morocco,MA,Rabat-Salé-Kénitra,Rabat,-6.2395,33.8205
+35074,197.38.11.222,8452,host-197.38.11.222.tedata.net,AS8452 TE-AS,Upper,Egypt,EG,Asyut,Asyūţ,30.8005,26.8195
+35118,41.234.66.205,8452,host-41.234.66.205.tedata.net,AS8452 TE-AS,Smart,Egypt,EG,Al Jizah,October 6,31.2375,30.0415
+35513,197.200.71.217,36947,,AS36947 Telecom Algeria,AlgerieTelecom,Algeria,DZ,Algiers,Algiers,3.0275,36.7685
+35736,197.221.248.3,37204,16.3.telone.co.zw,AS37204 Telone PVT Ltd,TelOne AS37204,Zimbabwe,ZW,,,31.0485,-17.8295
+35741,102.177.65.15,328262,,AS328262 Internet Uncapped,iUncapped Probe,South Africa,ZA,KwaZulu-Natal,Howick,30.2095,-29.4825
+35742,41.223.245.114,32437,,AS32437 Webdev CC T/A Cybertek,,South Africa,ZA,KwaZulu-Natal,Essenwood,31.0095,-29.8015
+35743,160.119.225.13,328137,,AS328137 Web Squad Connect (Pty) Ltd,Web sQuad JHB,South Africa,ZA,Gauteng,Johannesburg,27.9695,-26.0615
+50011,196.209.244.200,3741,196-209-244-200.dynamic.isadsl.co.za,AS3741 Internet Solutions,Internet Solutions (Johannesburg) - ISDSL Home User 2,South Africa,ZA,Gauteng,Randburg,28.0475,-26.2025
+50011,196.209.244.200,3741,196-209-244-200.dynamic.isadsl.co.za,AS3741 Internet Solutions,Internet Solutions (Johannesburg) - ISDSL Home User 2,South Africa,ZA,Gauteng,Randburg,28.0475,-26.2025
+50139,41.78.245.20,327987,afterhours.tech5.co.za,AS327987 Webstorm (Pty) LTD,Tech5-Kloof-DC,South Africa,ZA,KwaZulu-Natal,Mpumalanga,30.8485,-29.7885
+50192,105.30.241.10,328483,,AS37100 SEACOM Limited,COMPUTATE Probe,South Africa,ZA,KwaZulu-Natal,Durban,31.0015,-29.7815
+50322,155.93.210.135,328453,,AS37680 Cool Ideas Service Provider (Pty) Ltd,Atlas1,South Africa,ZA,KwaZulu-Natal,Berea,31.0785,-29.7215
+50355,155.93.192.173,37680,,AS37680 Cool Ideas Service Provider (Pty) Ltd,Cool Ideas FTTH client,South Africa,ZA,Gauteng,Randburg,30.8295,-29.7805
