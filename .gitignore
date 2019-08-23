@@ -4,4 +4,4 @@
 __pycache__/
 
 # ignoring data dumps
-data/data-dump*
+data/measurements*
