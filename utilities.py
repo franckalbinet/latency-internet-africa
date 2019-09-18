@@ -2,6 +2,8 @@ import requests
 from datetime import datetime
 import time
 import os.path
+import random
+from IPython.display import Markdown
 
 
 def get_measurements(measurement_id, start, stop, probe_ids=[]):
@@ -53,3 +55,17 @@ def df_to_csv(df, prefix_name="dump", folder="data"):
     """
     base_filename = prefix_name + "-" + datetime.now().strftime('%Y-%m-%d')
     df.to_csv(os.path.join(folder, base_filename + '.csv'), index=False)
+    
+def show_chart(path):
+    """Load and display previously saved chart/image
+    
+    This is a hack to invalidate browser's cache using a query string.
+
+    Keyword arguments:
+    path -- path of image/chart
+
+    Returns: Generated Markdown img with random query string to invalidate browser's cache
+    """
+    return Markdown("![]({path}?modified={cache_invalid})"\
+                    .format(path=path, cache_invalid = random.randint(1,1000)))
+
